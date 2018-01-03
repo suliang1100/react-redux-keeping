@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding:0;
+}
+li{
+    list-style: none;
+}
+.menu{
+    width:62px;
+    height:100%;
+    background: #364254;
+    position: fixed;
+    top: 0;
+}
+.menu li{
+    height:65px;
+    line-height:65px;
+    text-align: center;
+    color:#fff;
+    font-size: 14px;
+}
